@@ -8,6 +8,9 @@ public class Estanteria{
 	}
 
 	public Boolean hayHueco(){
+		//TODO: programar esto.
 		return true;
 	}
+
+	public void colocar(Bebida bebida){}
 }
